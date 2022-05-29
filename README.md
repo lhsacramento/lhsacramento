@@ -21,7 +21,6 @@
 
 ##
 
-<img height="100" src="https://cdn-icons.flaticon.com/png/512/4151/premium/4151857.png?token=exp=1652574273~hmac=708c6ac5f9d848a81ab3b6f9f2b9c63c" target="none">
  
 <a href="mailto:luizsacramento.tds@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/luiz-henrique-santos-519722231/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
